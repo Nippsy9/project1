@@ -156,6 +156,8 @@
     display: flex;
     justify-content: center;
   }
+
+  
   /* 296536 */
 
 /* MEDIA QUERY SM */
@@ -273,6 +275,7 @@
 
 
 @media (min-width: 481px) and (max-width: 769px) {
+  
   body {
     font-size: 16px;
     overflow-x: hidden;
@@ -351,6 +354,7 @@
   flex-direction: column;
   gap: 30px;
   margin-left: 100px;
+}
 }
 
 
